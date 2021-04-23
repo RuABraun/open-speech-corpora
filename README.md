@@ -226,3 +226,11 @@ Feel free to propse additions to the list!
 | Snips SLU Corpus | English; French | 1660 "Smart Lights EN" (~1.3 hours), 1286 "Smart Speaker EN" (~55 minutes), 1138 "Smart Speaker FR" (~50 minutes) utterances | English: 69 speakers; French: 30 speakers | <https://research.snips.ai/datasets/spoken-language-understanding> | [Snips Data License](https://github.com/snipsco/keyword-spotting-research-datasets/blob/master/LICENSE) |
 | CMU Sphinx Group - AN4 | English | "an4_clstk"(~50 minutes) "an4test_clstk" (~6 minutes) | "an4_clstk": 21 female, 53 male "an4test_clstk": 3 female, 7 male | http://www.speech.cs.cmu.edu/databases/an4/an4_raw.bigendian.tar.gz | [AN4](http://www.speech.cs.cmu.edu/databases/an4/LICENSE.html) |
 | FT Speech | Danish | ~1,857 hours (1,017,244 utterances) | 434 speakers (176 female, 258 male) | <https://ftspeech.dk> | [FT Speech License](https://ftspeech.dk/LICENSE.html) |
+
+## Other
+
+- openslr: various small datasets with different dialects of English
+- [SBC](https://www.linguistics.ucsb.edu/research/santa-barbara-corpus)
+- [kensho corpus](https://datasets.kensho.com/datasets/spgispeech)
+- [people's speech dataset](https://mlcommons.org/en/peoples-speech/)
+- 
