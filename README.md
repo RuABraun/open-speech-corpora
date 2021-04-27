@@ -233,4 +233,4 @@ Feel free to propse additions to the list!
 - [SBC](https://www.linguistics.ucsb.edu/research/santa-barbara-corpus)
 - [kensho corpus](https://datasets.kensho.com/datasets/spgispeech)
 - [people's speech dataset](https://mlcommons.org/en/peoples-speech/)
-- 
+- openslr: https://github.com/NTRLab/MediaSpeech
