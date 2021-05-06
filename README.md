@@ -234,3 +234,4 @@ Feel free to propse additions to the list!
 - [kensho corpus](https://datasets.kensho.com/datasets/spgispeech)
 - [people's speech dataset](https://mlcommons.org/en/peoples-speech/)
 - openslr: https://github.com/NTRLab/MediaSpeech
+- voxpopuli: https://github.com/facebookresearch/voxpopuli
