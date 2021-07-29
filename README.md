@@ -231,7 +231,9 @@ Feel free to propse additions to the list!
 
 - openslr: various small datasets with different dialects of English
 - [SBC](https://www.linguistics.ucsb.edu/research/santa-barbara-corpus)
-- [kensho corpus](https://datasets.kensho.com/datasets/spgispeech)
+- [kensho corpus](https://datasets.kensho.com/datasets/spgispeech) (English)
 - [people's speech dataset](https://mlcommons.org/en/peoples-speech/)
-- openslr: https://github.com/NTRLab/MediaSpeech
+- https://github.com/NTRLab/MediaSpeech (French, Arabic, Turkish and Spanish)
 - voxpopuli: https://github.com/facebookresearch/voxpopuli
+- gigaspeech (english)
+- tedx multilingual https://www.openslr.org/100/
